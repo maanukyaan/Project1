@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Documents\C\Project1\main.cpp(38,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Project1.vcxproj -> C:\Documents\C\Project1\x64\Debug\Project1.exe
